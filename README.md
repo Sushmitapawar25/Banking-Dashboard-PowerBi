@@ -1,2 +1,4 @@
-# Banking-Dashboard-PowerBi
-This repository contains two professional Power BI dashboards created to analyze **banking performance** and **HR employee attrition**.
+# 🏦 1. Banking Dashboard (Power BI)
+
+## 📌 Objective
+To analyze key banking metrics such as **total clients, deposits, loans, savings, business lending**, and customer segmentation using gender and joining date.
