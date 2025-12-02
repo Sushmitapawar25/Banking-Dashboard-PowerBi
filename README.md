@@ -30,7 +30,7 @@ The dashboard helps banking teams understand:
 ---
 
 ## 📂 Folder Structure  
-Banking-Analytics-Dashboard/
+Banking-Dashboard/
 │
 ├── data/
 │ ├── banking_raw.csv
